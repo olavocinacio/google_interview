@@ -1,0 +1,9 @@
+https://medium.com/@leandrotk_/python-3-poo-48c1b9b68059
+https://panda.ime.usp.br/pensepy/static/pensepy/13-Classes/classesintro.html
+https://wiki.python.org.br/ProgramacaoOrientadaObjetoPython
+http://devfuria.com.br/python/programacao-orientada-objetos/
+https://realpython.com/python3-object-oriented-programming/
+https://www.programiz.com/python-programming/object-oriented-programming
+https://www.tutorialspoint.com/python/python_classes_objects.htm
+https://towardsdatascience.com/understand-o-o-p-in-python-with-one-article-bfa76f3ba48c
+https://www.datacamp.com/community/tutorials/python-oop-tutorial
